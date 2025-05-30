@@ -1,0 +1,2 @@
+import { VideoPlay, VideoPause } from '@element-plus/icons-vue'
+export { VideoPlay, VideoPause }
